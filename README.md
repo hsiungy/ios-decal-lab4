@@ -2,7 +2,7 @@
 
 
 ## Due Date ##
-Tuesday, March 14th at 11:59 pm
+Tuesday, March 7th at 11:59 pm
 
 ## Overview ##
 
@@ -133,9 +133,10 @@ Once you have finished, please submit your files to [Gradescope](https://gradesc
 
 To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). Please check out the [slides in Lecture 3](http://iosdecal.com/Lectures/Lecture3.pdf) for step-by-step submission instructions if you're confused about how to do this (or ask a TA!)
 
-Checkoff Form for [Akilesh's Lab:](https://goo.gl/forms/A0YoAOKXvyrlUPZW2)
-
-Checkoff Form for [Paige's Lab:](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2g24rYRd0hhnxjBnSZiwyBr-C45J6LZS6BOQSQfaaSH-KDA/viewform?usp=sf_link)
-
 Alternatively you can submit your lab as a zip folder. To do this please open your ios-decal-lab3 folder, and compress the contents inside (not the folder itself). This should generate a file, **Archive.zip**, that you can submit to Gradescope.
 
+If you've finished during lab and need to get checked off, please fill out one of the following forms (based off what lab you are in): 
+
+- [310 Soda Lab Lab Check-Off Form](https://goo.gl/forms/yuUCJOW4KWzokhxt1)
+
+- [220 Jacobs Lab Lab Check-Off Form](https://goo.gl/forms/y33tC041P7QHj6a82)
